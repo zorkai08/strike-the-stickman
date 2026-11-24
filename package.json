@@ -1,0 +1,15 @@
+{
+  "name": "strike-the-stickman",
+  "version": "13.3.0",
+  "private": true,
+  "description": "Strike the Stickman game and Node account server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "pg": "8.16.3"
+  }
+}
